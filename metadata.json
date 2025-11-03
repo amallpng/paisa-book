@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Paisabook",
+  "description": "A personal finance management application to track income, expenses, set savings goals, and earn badges. All amounts are in Indian Rupees (₹).",
+  "version": "1.0.0",
+  "requestFramePermissions": []
+}
